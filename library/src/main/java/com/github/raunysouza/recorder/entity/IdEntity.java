@@ -1,4 +1,4 @@
-package com.github.raunysouza.requery.data.entity;
+package com.github.raunysouza.recorder.entity;
 
 import io.requery.Generated;
 import io.requery.Key;

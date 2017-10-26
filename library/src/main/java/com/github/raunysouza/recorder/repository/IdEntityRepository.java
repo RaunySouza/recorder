@@ -1,6 +1,6 @@
-package com.github.raunysouza.requery.data.repository;
+package com.github.raunysouza.recorder.repository;
 
-import com.github.raunysouza.requery.data.entity.IdEntity;
+import com.github.raunysouza.recorder.entity.IdEntity;
 
 import java.util.List;
 

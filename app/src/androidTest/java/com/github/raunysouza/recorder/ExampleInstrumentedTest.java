@@ -1,4 +1,4 @@
-package com.github.raunysouza.requery.data;
+package com.github.raunysouza.recorder;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package com.github.raunysouza.requery.data;
+package com.github.raunysouza.recorder;
 
 import org.junit.Test;
 

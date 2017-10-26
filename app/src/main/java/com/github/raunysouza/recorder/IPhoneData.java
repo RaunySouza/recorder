@@ -1,4 +1,4 @@
-package com.github.raunysouza.requery.data;
+package com.github.raunysouza.recorder;
 
 import com.github.raunysouza.requery.data.entity.PersistableEntity;
 
